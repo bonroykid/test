@@ -534,7 +534,7 @@ nav .navbar-inner .container {
 3.1 first sections
 ********************/
 .first-section {
-	background-color: #FFF3D6;
+	background-color: #eeeeee;
 }
 
 .first-section h2 {
@@ -557,7 +557,7 @@ nav .navbar-inner .container {
 3.1 second sections
 ********************/
 .second-section {
-    background-color: #f4e4bc;
+    background-color: #aaaaaa;
 }
 .second-section h2 {
     color: #1E4274;
@@ -576,7 +576,7 @@ nav .navbar-inner .container {
 ********************/
 .third-section {
     
-    background-color: #894C20;
+    background-color: #88888;
     padding-top: 1em;
     padding-bottom: 2em;
     margin-top: 10em;
@@ -613,7 +613,7 @@ nav .navbar-inner .container {
 3.1 contact sections
 ********************/
 .contact-section {
-    background-color: #2F2C2B;
+    background-color: #22222;
      margin-top: 12em;
 }
 .contact-section h2 {

@@ -88,106 +88,16 @@
 
                 <div class="container">
                     
-                    <div class="da-slide"> <!-- Start slide 01-->
-                        <h1 class="fittext2">Čistící pásky</h1>
+                    <div class=""> <!-- Start slide 01-->
+                    <h1 class="">---</h1>
+                        <h1 class="">TEST TEST</h1>
                         <h4>DWSC</h4>
                         <p>polyethylenová páska <br />s dvojitým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
+                        <a href="#contact" class="button">INFORMACE / OBJEDNÁVKA</a>
                             <div class="da-img">
                                 <img class="img-circle" src="images/slider-dwsce.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
                             </div>
                     </div> <!-- End slide -->
-
-                    <div class="da-slide"> <!-- Start slide 02-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>DWMSC</h4>
-                        <p>polyethylenová páska <br />s dvojitým jádrem a drážkou</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-dwmsce.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->
-
-                    <div class="da-slide"> <!-- Start slide 03-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>SWSC</h4>
-                        <p>polyethylenová páska <br />s jednoduchým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-swsce.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->                    
-
-                    <div class="da-slide"> <!-- Start slide 04-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>SWMSC</h4>
-                        <p>polyethylenová páska <br />s jednoduchým jádrem a drážkou</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-swmsce.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->
- 
-                    <div class="da-slide"> <!-- Start slide 05-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>PC</h4>
-                        <p>polyethylenová páska <br />s papírovým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-pce.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->                   
-
-                    <div class="da-slide"> <!-- Start slide 06-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>DWSC</h4>
-                        <p>polypropylenová páska <br />s dvojitým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-dwscp.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->
-
-                    <div class="da-slide"> <!-- Start slide 07-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>DWMSC</h4>
-                        <p>polypropylenová páska <br />s dvojitým jádrem a drážkou</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-dwmscp.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->
-
-                    <div class="da-slide"> <!-- Start slide 08-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>SWSC</h4>
-                        <p>polypropylenová páska <br />s jednoduchým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-swscp.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->                    
-
-                    <div class="da-slide"> <!-- Start slide 09-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>SWMSC</h4>
-                        <p>polypropylenová páska <br />s jednoduchým jádrem a drážkou</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-swmscp.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->
- 
-                    <div class="da-slide"> <!-- Start slide 10-->
-                        <h1 class="fittext2">Čistící pásky</h1>
-                        <h4>PC</h4>
-                        <p>polypropylenová páska <br />s papírovým jádrem</p>
-                        <a href="#contact" class="da-link da-link-one button">INFORMACE / OBJEDNÁVKA</a>
-                            <div class="da-img">
-                                <img class="img-circle" src="images/slider-pcp.jpg"  width="320px" height="320px" alt="Čistící pásky pro tamponový tisk">
-                            </div>
-                    </div> <!-- End slide -->                   
-  
 
                     <!-- Start cSlide navigation arrows -->
                     <div class="da-arrows">
